@@ -18,7 +18,7 @@
     "gatsby-source-plugin"
   ],
   "dependencies": {
-    "node-podcast-parser": "https://github.com/delineas/node-podcast-parser/tarball/master",
+    "node-podcast-parser": "github:delineas/node-podcast-parser#master",
     "request": "^2.83.0"
   },
   "devDependencies": {
